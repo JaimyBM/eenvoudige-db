@@ -8,6 +8,21 @@
         <title>Homepage</title>
     </head>
     <body>
+        <!-- Navigation Bar -->
+        <header>
+            <!-- Place holder  -->
+            <a class="IMG-HERE"></a>
 
+            <nav>
+                <a href="#">Webshop</a>
+                <a href="#">Log in</a>
+            </nav>
+        </header>
+        <main>
+
+        </main>
+        <footer>
+
+        </footer>
     </body>
 </html>
